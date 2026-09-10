@@ -29,7 +29,7 @@ const projects = [
     description: "My Portfolio with react js to show my projects that I worked on.",
     technologies: ["React"],
     image: portfolioImg,
-    demo: "#",
+    demo: "https://my-portfolio-nine-sandy-88.vercel.app/",
     github: "https://github.com/Nadaelghoul/MyPortfolio",
   },
   {
