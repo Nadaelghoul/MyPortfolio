@@ -6,6 +6,14 @@ import uberImg from "../../assets/uber.jfif";
 import portfolioImg from "../../assets/portfolio screen.png"
 
 const projects = [
+  {
+    title: "My Portfolio",
+    description: "My Portfolio with react js to show my projects that I worked on.",
+    technologies: ["React"],
+    image: portfolioImg,
+    demo: "https://nadaelghoul-portfolio.vercel.app/",
+    github: "https://github.com/Nadaelghoul/MyPortfolio",
+  },
    {
     title: "ShopNest",
     description:
@@ -23,14 +31,6 @@ const projects = [
     technologies: ["React", "Node.js", "MongoDB"],
     demo: "#",
     github: "https://github.com/Nadaelghoul/BookStore_MERN",
-  },
-  {
-    title: "My Portfolio",
-    description: "My Portfolio with react js to show my projects that I worked on.",
-    technologies: ["React"],
-    image: portfolioImg,
-    demo: "https://my-portfolio-nine-sandy-88.vercel.app/",
-    github: "https://github.com/Nadaelghoul/MyPortfolio",
   },
   {
     title: "Real-Time Chat App",
